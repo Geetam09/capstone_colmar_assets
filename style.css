@@ -328,7 +328,7 @@
       color: #777;
     }
 
-    /* ---------------- MOBILE RESPONSIVE ---------------- */
+       /* ---------------- MOBILE RESPONSIVE ---------------- */
     @media (max-width: 768px) {
       /* Header Mobile */
       header {
